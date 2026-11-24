@@ -5,4 +5,5 @@ return {
   require("plug.theme"),
   require("plug.code"),
   require("plug.editor"),
+  require("plug.telescope")
 }
